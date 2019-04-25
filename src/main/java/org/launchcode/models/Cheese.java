@@ -60,6 +60,5 @@ public class Cheese {
         return category;
     }
 
-    public void setCategory(Category category) { this.category = category;
-    }
+    public void setCategory(Category category) { this.category = category; }
 }
